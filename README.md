@@ -1,4 +1,4 @@
-# We The People - Fourth Branch App
+# We The People -  App
 
 **The digital infrastructure for the Second American Revolution.**
 
